@@ -1,0 +1,8 @@
+int main (int argc,char ** argv) {
+	while(a<a){
+		goto a;;
+	};
+	for(i;i<n;i){
+		goto c;;
+	};
+}
